@@ -42,7 +42,8 @@ ___
 #### Автор
 [![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-07)](https://github.com/VlodyaKr)
 
-[Володимир Кравченко](mailto:vlodya@gmail.com)
+####Володимир Кравченко
+[Написати листа](mailto:vlodya@gmail.com?subject=Python-6-Core-HomeWork-07)
 ___
 #### Ліцензія
 [![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/blob/main/LICENSE)
