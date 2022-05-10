@@ -1,10 +1,8 @@
 # Програма для сортування папки з файлами
 
-
 ### *Python 6 Core HomeWork 07*
 
 ---
-
 #### Формат запуску з сонсолі:
 #### ***`clean-folder Source [NOEXT]`***
 де 
@@ -27,11 +25,9 @@ ___
 
 ---
 #### Автор
-![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-06)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=VlodyaKr/Python-6-Core-HomeWork-07)](https://github.com/VlodyaKr)
 
 ___
 #### Ліцензія
-
-[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-06)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-06)
-<a href="https://github.com/VlodyaKr/Python-6-Core-HomeWork-06"><img alt="GitHub license" src="https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-06?style=plastic"></a>
-
+[![GitHub license](https://img.shields.io/github/license/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/blob/main/LICENSE)
+<p>Цей проект ліцензується відповідно до ліцензії MIT — подробиці див. у файлі LICENSE
