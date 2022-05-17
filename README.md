@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/network)
 [![GitHub stars](https://img.shields.io/github/stars/VlodyaKr/Python-6-Core-HomeWork-07?style=plastic)](https://github.com/VlodyaKr/Python-6-Core-HomeWork-07/stargazers)
 ---
-#### Формат запуску з сонсолі:
+#### Формат запуску з консолі:
 #### ***`clean-folder Source [NOEXT]`***
 де
 
